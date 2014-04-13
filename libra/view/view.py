@@ -51,7 +51,7 @@ class MagnificationPanel(wx.Panel):
         self.SetBackgroundColour('#FF00000')
 
 
-#TODO scroll manually when images are appeared
+#TODO scroll manually when images appeared
 class ScrolledPanel(wx.Panel):
     def __init__(self, parent, size, positions):
         wx.Panel.__init__(self, parent=parent, size=size)
