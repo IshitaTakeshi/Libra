@@ -1,2 +1,2 @@
-usage:  
-$python main.py <path to image dir>
+#usage
+$pythom main.py [path to image dir]
